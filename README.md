@@ -1,4 +1,4 @@
-<h1Certified GenAI, Web 3.0 & Metaverse Developer & Solopreneur</h1>
+<h1>Certified GenAI, Web 3.0 & Metaverse Developer & Solopreneur</h1>
 <h2>Week-7 Assignment (Quarter 1)</h2>
 
 - Create a function that takes an array, an index, and a value as parameters. Inside the function, use the splice method to insert the value 
