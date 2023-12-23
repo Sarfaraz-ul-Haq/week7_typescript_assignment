@@ -18,4 +18,4 @@ at the specified index in the array. Return the modified array.
  - Create a function that takes an array of numbers as parameter. Use a for loop to calculate and return the sum of all the numbers in the array.
 
  - Implement a program that takes a list of temperatures in Celsius as input from the user. Convert each temperature to Fahrenheit using the
- - formula F = (C * 9/5) + 32 and store the converted temperatures in an array. Use a for loop to perform the conversion for each temperature.
+formula F = (C * 9/5) + 32 and store the converted temperatures in an array. Use a for loop to perform the conversion for each temperature.
