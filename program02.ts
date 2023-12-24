@@ -24,8 +24,3 @@ removeFromCart(shoppingCart, 2); //removes "gloves" from 2nd index of array "sho
 
 //_______________________________________________________________________________________
 
-//Function to update quantity of items in the cart
-let $shoppingCart = [{ cap: 1 }, { socks: 1 }, { gloves: 1 }];
-
-//function increaseQtyInCartarray(array: string[]) 
-
